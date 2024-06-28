@@ -22,6 +22,9 @@ tasks:
         options:
             path: robot/Developer/tests
             output: robot/Developer/doc/Developer_tests.html
+    test_task:	
+        options:	
+            default:true
     run_tests:
         options:
             required_org_code_coverage_percent: 75
