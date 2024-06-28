@@ -41,6 +41,9 @@ extract:
     - NaicsDesc
     - YearStarted
     - SicDesc
+
+    - Hobbies__c
+
     - ParentId
     - DandbCompanyId
     - OperatingHoursId

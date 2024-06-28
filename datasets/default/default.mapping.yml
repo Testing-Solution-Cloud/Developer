@@ -61,6 +61,9 @@ Insert Account:
   - NaicsDesc
   - YearStarted
   - SicDesc
+
+  - Hobbies__c
+
   lookups:
     ParentId:
       table:

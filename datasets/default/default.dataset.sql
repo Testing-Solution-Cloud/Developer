@@ -41,6 +41,9 @@ CREATE TABLE "Account" (
 	"NaicsDesc" VARCHAR(255), 
 	"YearStarted" VARCHAR(255), 
 	"SicDesc" VARCHAR(255), 
+
+	"Hobbies__c" VARCHAR(255), 
+
 	"DandbCompanyId" VARCHAR(255), 
 	"OperatingHoursId" VARCHAR(255), 
 	"ParentId" VARCHAR(255), 
